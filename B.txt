@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+<html>
+	
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+<style>
+* {
+    box-sizing: border-box;
+
+}
+
+
+.header {
+	padding: 15px;
+    float: center;
+	text-align: center;
+	font-size: 35px;
+    box-sizing: border-box;
+			}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+}	
+</style>
+</head>
+<body style="background-image:url(F.jpg)">
+<div class="header">
+  <h1><font color = "white"><center>Quotezzy</center></font></h1>
+
+</div>
+
+<ul>
+  	<li><a href="H.html"> Home &nbsp </a> </li>
+    <li><a href="A.html"> &nbsp About Me &nbsp </a></li>
+    <li><a href="C.html"> &nbsp College Achievements &nbsp</a></li>
+<li><a href="P.html"> &nbsp Dev C++ Planet &nbsp </a></li>
+    <li><a href="B.html"> &nbsp Blast Off! &nbsp </a></li>
+<li><a href="Q.html"> &nbsp Quotezzy &nbsp </a></li>
+</ul>
+
+<body>
+<br>
+<img src="t.jpg" width="311" height="300"><img src="w.jpg" width = "311" height = "300"><img src="q.jpg" width="311" height="300"><img src="r.jpg" width="311" height="300">
+<img src="e.png" width="311" height="300"><img src="y.jpg" width="311" height="300"><img src="u.jpg" width="311" height="300"><img src="i.jpg" width="311" height="300">
+<img src="o.jpg" width="311" height="300"><img src="z.jpg" width="311" height="300"><img src="x.jpg" width="311" height="300"><img src="c.jpg" width="311" height="300">
+ </body> 
+
+<br>
+<br>
+<ul>	
+   <li><a href="Q.html">  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp BACK TO THE TOP &nbsp </a></li>
+</ul>
+</html>
